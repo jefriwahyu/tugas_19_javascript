@@ -9,6 +9,7 @@
 
 <b><i>[ Repeat string "semangat..." ]</i></b>
 
+![19a](https://user-images.githubusercontent.com/92837751/184466599-e06698e5-0863-4def-8278-14f06ee7774c.jpg)
 
 <b><i>[ Repeat string "*****" ]</i></b>
 
